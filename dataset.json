@@ -45,6 +45,60 @@
         }
       ]
     },
+    {
+    "kategori": "informasi_klinik",
+    "data": [
+        {
+            "pertanyaan": "Apa saja layanan yang tersedia di Klinik Safindra?",
+            "jawaban": "Klinik Safindra menyediakan berbagai layanan seperti konsultasi dokter kulit, perawatan wajah, perawatan tubuh, dan prosedur estetik seperti Botox, Filler, dan PRP."
+        },
+        {
+            "pertanyaan": "Apakah Klinik Safindra menyediakan layanan konsultasi?",
+            "jawaban": "Ya, Klinik Safindra menyediakan layanan konsultasi dengan dokter spesialis kulit untuk membantu Anda memilih perawatan yang tepat."
+        },
+        {
+            "pertanyaan": "Bagaimana cara membuat janji konsultasi di Klinik Safindra?",
+            "jawaban": "Anda dapat membuat janji konsultasi dengan menghubungi nomor WhatsApp resmi Klinik Safindra atau datang langsung ke klinik kami."
+        },
+        {
+            "pertanyaan": "Apa saja metode pembayaran yang diterima di Klinik Safindra?",
+            "jawaban": "Klinik Safindra menerima pembayaran tunai, kartu debit/kredit, serta pembayaran melalui e-wallet seperti GoPay dan OVO."
+        }
+    ]
+},
+    {
+    "kategori": "harga_perawatan",
+    "data": [
+        {
+            "pertanyaan": "Berapa harga Facial Kombinasi?",
+            "jawaban": "Harga Facial Kombinasi adalah Rp260.000. Perawatan ini menyegarkan kulit dan mengatasi masalah kulit dengan durasi 60 menit."
+        },
+        {
+            "pertanyaan": "Berapa harga Peeling Wajah?",
+            "jawaban": "Harga Peeling Wajah adalah Rp350.000. Perawatan ini berfungsi untuk mengangkat sel kulit mati agar wajah lebih cerah dengan durasi 45 menit."
+        },
+        {
+            "pertanyaan": "Berapa harga Laser Jerawat?",
+            "jawaban": "Harga Laser Jerawat adalah Rp500.000. Perawatan ini membantu mengurangi jerawat dengan teknologi laser dan memiliki durasi 30 menit."
+        },
+        {
+            "pertanyaan": "Berapa harga Botox?",
+            "jawaban": "Harga Botox adalah Rp1.500.000. Perawatan ini bertujuan untuk mengencangkan kulit dan mengurangi kerutan dengan durasi 60 menit."
+        },
+        {
+            "pertanyaan": "Berapa harga Filler?",
+            "jawaban": "Harga Filler adalah Rp2.000.000. Perawatan ini berguna untuk menambah volume pada area wajah tertentu dengan durasi 90 menit."
+        },
+        {
+            "pertanyaan": "Berapa harga Microneedling?",
+            "jawaban": "Harga Microneedling adalah Rp700.000. Perawatan ini merangsang produksi kolagen untuk memperbaiki tekstur kulit dengan durasi 75 menit."
+        },
+        {
+            "pertanyaan": "Berapa harga PRP (Platelet Rich Plasma)?",
+            "jawaban": "Harga PRP (Platelet Rich Plasma) adalah Rp1.200.000. Perawatan ini menggunakan plasma darah untuk regenerasi sel kulit baru dengan durasi 90 menit."
+        }
+    ]
+},
     
     {
       "kategori": "thanks",
