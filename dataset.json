@@ -63,6 +63,30 @@
         {
             "pertanyaan": "Apa saja metode pembayaran yang diterima di Klinik Safindra?",
             "jawaban": "Klinik Safindra menerima pembayaran tunai, kartu debit/kredit, serta pembayaran melalui e-wallet seperti GoPay dan OVO."
+        },
+      {
+            "pertanyaan": "Dimana lokasi Klinik Safindra?",
+            "jawaban": "Klinik Safindra berlokasi di Purwokerto. Untuk alamat lengkap dan petunjuk arah, Anda dapat mengunjungi situs web resmi atau Google Maps."
+        },
+      {
+            "pertanyaan": "Apakah Klinik Safindra memiliki dokter spesialis?",
+            "jawaban": "Ya, Klinik Safindra memiliki dokter spesialis kulit yang berpengalaman dalam menangani berbagai masalah kulit dan perawatan estetik."
+        },
+        {
+            "pertanyaan": "Apa saja jam operasional Klinik Safindra?",
+            "jawaban": "Klinik Safindra buka setiap hari dari pukul 09.00 hingga 17.00 WIB, termasuk akhir pekan."
+        },
+      {
+            "pertanyaan": "Apakah Klinik Safindra memiliki layanan home service?",
+            "jawaban": "Saat ini, Klinik Safindra belum menyediakan layanan home service. Semua perawatan dilakukan di klinik untuk memastikan hasil terbaik."
+        },
+        {
+            "pertanyaan": "Apakah ada syarat tertentu sebelum melakukan perawatan di Klinik Safindra?",
+            "jawaban": "Beberapa perawatan memiliki syarat tertentu, seperti tidak sedang dalam kondisi kulit sensitif atau memiliki alergi tertentu. Konsultasikan terlebih dahulu dengan dokter sebelum melakukan perawatan."
+        },
+        {
+            "pertanyaan": "Bagaimana cara mengetahui jenis perawatan yang sesuai dengan kondisi kulit saya?",
+            "jawaban": "Anda dapat melakukan konsultasi dengan dokter di Klinik Safindra untuk mengetahui jenis perawatan yang sesuai dengan kondisi kulit Anda."
         }
     ]
 },
@@ -99,7 +123,43 @@
         }
     ]
 },
-    
+    {
+    "kategori": "gatal",
+    "data": [
+        {
+            "pertanyaan": "Apa saja penyebab gatal pada kulit?",
+            "jawaban": "Gatal pada kulit bisa disebabkan oleh berbagai faktor, termasuk alergi, kulit kering, infeksi jamur, eksim, dermatitis, gigitan serangga, reaksi terhadap produk perawatan kulit, hingga kondisi medis seperti diabetes atau gangguan hati."
+        },
+        {
+            "pertanyaan": "Bagaimana cara mengatasi gatal yang tidak kunjung hilang?",
+            "jawaban": "Jika gatal tidak kunjung hilang, gunakan pelembap, hindari menggaruk, gunakan kompres dingin, serta gunakan krim antihistamin atau kortikosteroid sesuai anjuran dokter. Jika gatal berlangsung lebih dari dua minggu, segera konsultasikan ke dokter."
+        },
+        {
+            "pertanyaan": "Apakah gatal pada kulit bisa menular?",
+            "jawaban": "Gatal bisa menular jika disebabkan oleh infeksi seperti skabies, jamur, atau kutu. Namun, gatal akibat alergi, eksim, atau kulit kering tidak menular."
+        },
+        {
+            "pertanyaan": "Apa yang menyebabkan gatal di malam hari?",
+            "jawaban": "Gatal di malam hari bisa disebabkan oleh perubahan suhu tubuh, reaksi alergi, gigitan serangga, atau kondisi kulit seperti eksim dan psoriasis. Stres dan gangguan saraf juga bisa memperburuk gatal saat malam."
+        },
+        {
+            "pertanyaan": "Apakah gatal bisa menjadi tanda penyakit serius?",
+            "jawaban": "Ya, dalam beberapa kasus, gatal yang terus-menerus bisa menjadi tanda penyakit serius seperti gangguan hati, ginjal, diabetes, atau gangguan saraf. Jika gatal berlangsung lama dan tidak membaik, sebaiknya konsultasikan dengan dokter."
+        },
+        {
+            "pertanyaan": "Bagaimana cara mencegah gatal pada kulit?",
+            "jawaban": "Untuk mencegah gatal, gunakan pelembap secara rutin, hindari pemicu alergi, gunakan pakaian berbahan lembut, jaga kebersihan kulit, dan gunakan produk perawatan kulit yang sesuai dengan jenis kulit."
+        },
+        {
+            "pertanyaan": "Apa bedanya gatal akibat alergi dan gatal akibat infeksi?",
+            "jawaban": "Gatal akibat alergi biasanya muncul tiba-tiba, disertai ruam merah, dan bisa membaik setelah menghindari pemicunya. Sedangkan gatal akibat infeksi seringkali disertai perubahan warna kulit, bersisik, atau bahkan bernanah."
+        },
+        {
+            "pertanyaan": "Bagaimana cara mengatasi gatal akibat eksim?",
+            "jawaban": "Gatal akibat eksim dapat dikurangi dengan menggunakan pelembap, menghindari pemicu alergi, mandi dengan air hangat, serta menggunakan krim steroid ringan atau obat antihistamin sesuai anjuran dokter."
+        }
+    ]
+}, 
     {
       "kategori": "thanks",
       "data": [
